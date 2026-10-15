@@ -1,4 +1,4 @@
-name: Qt Windows Shared
+name: Qt Windows Static
 
 on:
   push:
