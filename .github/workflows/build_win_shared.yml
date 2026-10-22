@@ -126,15 +126,12 @@ jobs:
           -skip qtquickcontrols2 ^
           -skip qtquicktimeline ^
           -skip qtremoteobjects ^
-          -skip qtrepotools ^
           -skip qtscript ^
           -skip qtscxml ^
           -skip qtsensors ^
           -skip qtserialbus ^
           -skip qtserialport ^
           -skip qtspeech ^
-          -skip qtsystems ^
-          -skip qttranslations ^
           -skip qtvirtualkeyboard ^
           -skip qtwayland ^
           -skip qtwebchannel ^
@@ -142,7 +139,6 @@ jobs:
           -skip qtwebglplugin ^
           -skip qtwebsockets ^
           -skip qtwebview ^
-          -skip qtwinextras ^
           -skip qtx11extras ^
           -skip qtxmlpatterns
 
